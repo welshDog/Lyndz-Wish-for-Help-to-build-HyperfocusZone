@@ -68,3 +68,4 @@ Every bit of support makes a difference — whether it’s $1/month or a full-on
 💜 Thanks for reading. If you believe in giving creators like me a shot — let’s build something legendary together.  
 🫶🤝👊♾️
 """
+cant help that way just a share is amzing too ❤️
