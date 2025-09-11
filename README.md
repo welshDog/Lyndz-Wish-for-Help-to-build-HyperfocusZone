@@ -65,6 +65,11 @@ Every bit of support makes a difference — whether it’s $1/month or a full-on
 - ADHD-Friendly IDE – coding environment designed for focus bursts.
 - Community Growth – Discord, Patreon, GitHub → one united creative hub.
 
+- ## 🌌 **See It In Action**
+**[🎮 Interactive Constellation Demo →](https://welshdog.github.io/hyperfocus-constellation/)**
+
+This isn't just a concept - it's a live, working ecosystem you can explore right now.
+
 💜 Thanks for reading. If you believe in giving creators like me a shot — let’s build something legendary together.  
 🫶🤝👊♾️
 """
